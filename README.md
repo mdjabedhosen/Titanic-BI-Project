@@ -92,7 +92,7 @@ import plotly.express as px
 ## 🚀 How to Run
 
 1. Open [Google Colab](https://colab.research.google.com/)
-2. Upload `IT_Md_Jabed_Hosen.txt.ipynb`
+2. Upload `Titanic_Project_Colab.ipynb`
 3. Mount your Google Drive and place `Titanic_Dataset.csv` at:  
    `MyDrive/Jamib/Titanic_Dataset.csv`
 4. Run all cells
